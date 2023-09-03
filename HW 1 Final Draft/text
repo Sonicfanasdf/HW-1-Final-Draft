@@ -1,0 +1,43 @@
+
+Data set with 10 data: 
+{ 2, 4, 6, 7, 23, 46, 65, 83, 83, 98 }
+
+Minimum Value: 2
+Maximum Value: 98
+Range: 96
+Size: 10
+Sum: 417
+Mean: 41.7
+Median: 34.5
+Mode: Mode: 83 (Frequency: 2)
+
+Standard Deviation: 37.9592
+Variance: 1440.9
+Midrange: 50
+Quartiles: Q2 (Second Quartile/Median): 34.5
+Q1 (First Quartile): 6
+Q3 (Third Quartile): 83
+
+Interquartile Range (IQR): 77
+Outliers: 
+Outliers in the dataset: No outliers found.
+
+
+Sum of Squares: 12968.1
+Mean Absolute Deviation (MAD): 33.3
+Root Mean Square (RMS): 55.0972
+Standard Error of the Mean: 12.0037
+Coefficient of Variation: 0.910292
+Relative Standard Deviation: 91.0292%
+Frequencies: ELEMENT	FREQUENCY	PECENTAGE
+=======	=========	==========
+2	1		10%
+4	1		10%
+6	1		10%
+7	1		10%
+23	1		10%
+46	1		10%
+65	1		10%
+83	2		20%
+98	1		10%
+
